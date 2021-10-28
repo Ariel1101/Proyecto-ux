@@ -1,0 +1,18 @@
+{
+
+  "apuntes":[
+      {
+          "title": "Matematicas",
+          "description": "Recordar hacer los ejercicios de calculo"
+      },
+      {
+        "title": "Progra 2",
+        "description": "Proyecto de clase"
+    },
+    {
+      "title": "Rutina",
+      "description": "Ir al gimnasio"
+  }
+
+  ]
+}
